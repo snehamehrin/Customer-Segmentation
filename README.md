@@ -6,4 +6,5 @@
 * Along the way,I did some key exploratory data analysis to figure out some key questions.
 
 **Goal**
+
 Goal of this project is to showcase how to perform data cleaning and feature engineering on transactional data.
